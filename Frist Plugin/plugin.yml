@@ -1,0 +1,13 @@
+version: 1.0
+name: AhmedFirstPlugin 
+main: com.ahmed.plugin.Main
+author: Ahmed Raafat Radwan
+description: Ahmed first minecraft plugin 
+commands:
+  heal:
+  time:
+  
+
+  
+    
+    
